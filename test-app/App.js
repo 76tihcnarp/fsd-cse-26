@@ -1,7 +1,11 @@
 import Test from "./Test.js";
 
 const Problem=[
-    {image: "",title:"ReactJS",price: 675},
+    { prblm:"1: what is the command used for running a react file developed by vite",
+        sol1 : "npm run dev",
+        sol2 : "nmp run dev",
+        sol3 : "npm dev run",
+        sol4 : "run npm dev"},
 ]
 
 function App(){
