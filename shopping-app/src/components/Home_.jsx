@@ -19,8 +19,10 @@ const Itemdata=[
         <Items/>
         <Items/>
         <Items/>
-         <Items/>
-          <Items/>
+        <Items/>
+        <Items/>
+        <Items/>
+        <Items/>
       </div>
     
   )
