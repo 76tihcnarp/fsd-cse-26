@@ -1,0 +1,26 @@
+{
+  "name": "book-npm",
+  "version": "1.0.0",
+  "description": "basic book project for learning react",
+  "keywords": [
+    "ReactJS"
+  ],
+  "license": "ISC",
+  "author": "shubham dhanker",
+  "type": "module",
+  
+  "scripts": {
+    "start":"parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "parcel": "^2.16.4",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
+  },
+  "devDependencies": {
+    "@babel/cli": "^8.0.4",
+    "@babel/core": "^8.0.1",
+    "@babel/preset-env": "^8.0.2"
+  }
+}

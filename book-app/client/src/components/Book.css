@@ -1,0 +1,11 @@
+.book{
+        width:250px;
+        height: 310px;
+        border: 2px solid green;
+        background-color: rgb(56, 61, 223);
+        margin: auto;
+        padding:10px;
+        text-align:center;
+    }
+
+    
