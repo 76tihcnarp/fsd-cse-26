@@ -1,10 +1,10 @@
 import  "./Items.css"
-const Items = () => {
+const Items = ({props}) => {
   return (
     <div className="card">
-      <img src="" width={100} height={100} />
-      <h2>title: redmi earbuds</h2>
-      <h3>price: rs.1728/-</h3>
+      <img src={props.image} width={100} height={100} />
+      <h3>title {props.title}</h3>
+      <h3>price: {props.price}</h3>
       <button>Add To Cart</button>
     </div>
   )
