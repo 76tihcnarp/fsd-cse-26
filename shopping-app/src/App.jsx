@@ -1,12 +1,13 @@
-import UserLayout from "./pages/UserLayout"
-import "./App.css"
+
+import UserLayout from "./pages/UserLayout";
+import "./App.css";
 
 const App = () => {
   return (
     <div className="roote">
-      <UserLayout/>
+      <UserLayout />
     </div>
-  )
-}
+  );
+};
 
-export default App
+export default App;
