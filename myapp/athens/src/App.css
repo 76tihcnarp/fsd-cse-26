@@ -1,0 +1,14 @@
+*{
+    align-content: center;
+}
+
+button{
+background-color: rgb(85, 232, 85);
+height: 50px;
+width: 50px;
+}
+
+h1{
+    background-color: yellow;
+    font-size: 50px;
+}
